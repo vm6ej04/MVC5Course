@@ -26,5 +26,9 @@ namespace MVC5Course2.Controllers
 
             return View();
         }
+        public ActionResult Profile()
+        {
+            return View();
+        }
     }
 }
